@@ -65,11 +65,11 @@
 /* Example usage */
 /* Provide the library name, data set name, and name of the output data set to create */
 
-/* Example with SASHELP.COMPANY */
+/* Example with SASHELP.COMPANY for SAS9 */
 %charCheck(lib=sashelp, data=company, out=char_lengths);
 
-/* Example with SASHELP.CARS */
-%charCheck(lib=sashelp, data=cars, out=char_lengths);
+/* Example with SASHELP.FLAGS for SAS Viya */
+%charCheck(lib=sashelp, data=flags, out=char_lengths);
 
 
 
