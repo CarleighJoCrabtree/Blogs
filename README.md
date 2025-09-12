@@ -7,8 +7,11 @@ This repository is designed to hold sample code and data used in technical blogs
 Blogs in series are in Blogs/SeriesTitle/SubTitle structure. 
 Standalone blogs are in Blogs/BlogTitle structure. 
 Each repository contains:
+
     BlogLink: a file with the link to the associated blog
+    
     .sas file: contains the blog code
+    
     Optionally a data file may be included
 
 # Author
