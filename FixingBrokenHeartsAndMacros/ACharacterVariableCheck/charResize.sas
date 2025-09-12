@@ -5,7 +5,7 @@
 
     %local summary len_stmt;
 
-    /* Uses the max_char_lengths macro to generate a data set named all_char_len of the character variables and lengths */
+    /* Uses the charCheck macro to generate a data set named all_char_len of the character variables and lengths */
     %let summary = all_char_len;
     %charCheck(lib=&lib, data=&data, out=&summary);
 
