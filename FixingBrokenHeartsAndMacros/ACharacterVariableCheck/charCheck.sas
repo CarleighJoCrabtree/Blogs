@@ -8,7 +8,7 @@
     /* Open the dataset in input mode */
     /* If the data set exists and opens successfully, open returns a positive integer like 1, 2, 3... */
     %let dsid = %sysfunc(open(&lib..&data,i));
-    /*  So if the data set opens successfully, &dsid>0, the then do block executes */
+    /*  So if the data set opens successfully, &dsid>0, the THEN DO block executes */
     %if &dsid %then %do;
 		
 		/* Queries the number of variables in the data set referred to by dsid */
@@ -32,7 +32,7 @@
                 %let varlen  = %sysfunc(varlen(&dsid,&i));
 
                 proc sql noprint;
-                	/* Appends a new row to the data set, each character variable will be it's own row */
+                	/* Appends a new row to the data set, each character variable will be its own row */
                     insert into &out
                     	   /* Puts the variable name into a column named Variable */
                     select "&varname" as Variable,
