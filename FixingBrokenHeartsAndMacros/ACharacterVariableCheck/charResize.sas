@@ -41,11 +41,11 @@
 /* Example usage */
 /* Provide the library name, data set name, library to write the output data set to, and output data set name */
 
-/* Example with SASHELP.COMPANY */
+/* Example with SASHELP.COMPANY for SAS9 */
 %charResize(lib=sashelp, data=company, outLib=work, out=company_new);
 
-/* Example with SASHELP.CARS */
-%charResize(lib=sashelp, data=cars, outLib=work, out=cars_new);
+/* Example with SASHELP.FLAGS for SAS Viya */
+%charResize(lib=sashelp, data=flags, outLib=work, out=flags_new);
 
 
 
