@@ -21,11 +21,12 @@ As a Technical Training Consultant at SAS, I develop and deliver training on SAS
 
 # Blog List
 
-https://communities.sas.com/t5/SAS-Communities-Library/Fixing-Broken-Hearts-and-Macros-NRSTR/tac-p/971980#M10770
-https://communities.sas.com/t5/SAS-Communities-Library/Dictionary-Tables-A-SAS-Hidden-Gem/ta-p/965439
-https://communities.sas.com/t5/SAS-Communities-Library/Simplifying-SAS-Viya-Part-1-Choose-Your-Server/ta-p/949234
-https://communities.sas.com/t5/SAS-Communities-Library/Simplifying-SAS-Viya-Part-2-What-are-Caslibs/ta-p/954174
-https://communities.sas.com/t5/SAS-Communities-Library/Simplifying-SAS-Viya-Part-3-Loading-Data-into-Memory-Using-SAS/ta-p/961151
-https://communities.sas.com/t5/SAS-Communities-Library/Simplifying-SAS-Viya-Part-4-Altering-the-DATA-Step-to-Run-in-CAS/ta-p/968330
-https://communities.sas.com/t5/SAS-Communities-Library/Maintain-Column-Order-While-Changing-Column-Length-in-SAS/tac-p/944188#M9586
+- https://communities.sas.com/t5/SAS-Communities-Library/Efficiency-Matters-Using-Indexes-in-SAS/ta-p/979038
+- https://communities.sas.com/t5/SAS-Communities-Library/Fixing-Broken-Hearts-and-Macros-NRSTR/tac-p/971980#M10770
+- https://communities.sas.com/t5/SAS-Communities-Library/Dictionary-Tables-A-SAS-Hidden-Gem/ta-p/965439
+- https://communities.sas.com/t5/SAS-Communities-Library/Simplifying-SAS-Viya-Part-1-Choose-Your-Server/ta-p/949234
+- https://communities.sas.com/t5/SAS-Communities-Library/Simplifying-SAS-Viya-Part-2-What-are-Caslibs/ta-p/954174
+- https://communities.sas.com/t5/SAS-Communities-Library/Simplifying-SAS-Viya-Part-3-Loading-Data-into-Memory-Using-SAS/ta-p/961151
+- https://communities.sas.com/t5/SAS-Communities-Library/Simplifying-SAS-Viya-Part-4-Altering-the-DATA-Step-to-Run-in-CAS/ta-p/968330
+- https://communities.sas.com/t5/SAS-Communities-Library/Maintain-Column-Order-While-Changing-Column-Length-in-SAS/tac-p/944188#M9586
 
